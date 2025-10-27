@@ -136,6 +136,6 @@ jupyter notebook
 ---
 
 ## 👨‍💻 Author
-**Soloman Meriga**  
-📧 solomanmeriga111@gmail.com  
+**Solomanu Meriga**  
+📧 solomanmeriga33@gmail.com  
 GitHub: https://github.com/TECH-SOLOMANU
